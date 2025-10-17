@@ -1,0 +1,15 @@
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.csproj.AssemblyReference.cache
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.AssemblyInfoInputs.cache
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.AssemblyInfo.cs
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.csproj.CoreCompileInputs.cache
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\bin\Debug\net6.0\Atvdd09.exe
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\bin\Debug\net6.0\Atvdd09.deps.json
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\bin\Debug\net6.0\Atvdd09.runtimeconfig.json
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\bin\Debug\net6.0\Atvdd09.dll
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\bin\Debug\net6.0\Atvdd09.pdb
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.dll
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\refint\Atvdd09.dll
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.pdb
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\Atvdd09.genruntimeconfig.cache
+D:\Micael Borges\prova diego\Atvdd09\Atvdd09\obj\Debug\net6.0\ref\Atvdd09.dll
