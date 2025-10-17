@@ -1,0 +1,15 @@
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.csproj.AssemblyReference.cache
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.AssemblyInfoInputs.cache
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.AssemblyInfo.cs
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.csproj.CoreCompileInputs.cache
+D:\Micael Borges\prova diego\atvdd8\atvdd8\bin\Debug\net6.0\atvdd8.exe
+D:\Micael Borges\prova diego\atvdd8\atvdd8\bin\Debug\net6.0\atvdd8.deps.json
+D:\Micael Borges\prova diego\atvdd8\atvdd8\bin\Debug\net6.0\atvdd8.runtimeconfig.json
+D:\Micael Borges\prova diego\atvdd8\atvdd8\bin\Debug\net6.0\atvdd8.dll
+D:\Micael Borges\prova diego\atvdd8\atvdd8\bin\Debug\net6.0\atvdd8.pdb
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.dll
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\refint\atvdd8.dll
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.pdb
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\atvdd8.genruntimeconfig.cache
+D:\Micael Borges\prova diego\atvdd8\atvdd8\obj\Debug\net6.0\ref\atvdd8.dll
